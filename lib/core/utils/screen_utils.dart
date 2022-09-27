@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_boiler/core/conts/enums.dart';
+import 'package:flutter_boiler/core/consts/enums.dart';
 
 class ScreenUtils {
   SizeType deviceSize;
