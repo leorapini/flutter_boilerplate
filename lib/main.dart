@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import './locator.dart' as di;
+
+import 'locator.dart' as di;
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();

@@ -1,12 +1,12 @@
 enum SizeType {
-  Tiny,
+  tiny,
   xxSmall,
   xSmall,
-  Middle,
-  Small,
-  Large,
+  middle,
+  small,
+  large,
   xLarge,
   xxLarge,
-  Ultra,
-  Mega
+  ultra,
+  mega
 }
