@@ -2,7 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
-import '../consts/enums.dart';
+import '../constants/enums.dart';
 
 class ScreenUtils {
   SizeType deviceSize;
@@ -17,7 +17,6 @@ class ScreenUtils {
     textScaleFactor = MediaQuery.of(context).textScaleFactor;
   }
 
-  /// If you would change it and get positive result, please push it to our repository for improving the boilerplate!
   final Map<SizeType, double> _deviceSizeRateMultipliers = {
     SizeType.xxSmall: 0.70,
     SizeType.xSmall: 0.80,
@@ -30,7 +29,6 @@ class ScreenUtils {
     SizeType.mega: 1.50
   };
 
-  /// If you would change it and get positive result, please push it to our repository for improving the boilerplate!
   final Map<SizeType, double> _fontOrFontSizeRateMultipliers = {
     SizeType.xxSmall: 1.25,
     SizeType.xSmall: 1.30,
