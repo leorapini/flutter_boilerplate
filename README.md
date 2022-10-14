@@ -4,7 +4,7 @@ Boilerplate template and basic Clean Architecture folder structure for a new Flu
 
 ## Motivation
 
-Starting a new project is hard work. Many choices must be made when choosing the right architecture and so forth. I created this repository to expedite my development speed by choosing the most commom structure, architecture and packages I use. Obviously each project demands its own architecture, but this has helped me to get the ball rolling and start coding faster. 
+Starting a new project is hard work. Many choices must be made when choosing the right architecture and so forth. I created this repository to expedite my development process by choosing the most common structure, architecture, and packages I use. Obviously, each project demands its own architecture, but this has helped me to get the ball rolling and start coding faster. 
 
 ## Technologies
 
