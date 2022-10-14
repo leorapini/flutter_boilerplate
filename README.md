@@ -1,6 +1,6 @@
 # flutter_boilerplate
 
-Boilerplate code and basic Clean Architecture folder structure for a new Flutter App.
+Boilerplate template and basic Clean Architecture folder structure for a new Flutter App.
 
 ## Motivation
 
